@@ -7,6 +7,11 @@ Hi, I'm Rohan Rajendra Deshmukh — a passionate cybersecurity enthusiast and as
 
 ---
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2775328" style='border:none;'></iframe>
+
+
+---
+
 ## 🏆 Certifications
 
 [![eJPT Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/158146424)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/158146424)
