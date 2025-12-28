@@ -3,7 +3,7 @@ Hi, I'm **Rohan Rajendra Deshmukh** — a Red Team Enthusiast and Security Resea
 
 ### 🛡️ Cybersecurity Standing:
 * 🏆 **Top 1%** globally on **TryHackMe**
-* 🌍 Ranked **#9,000** in the World (out of 3M+ users)
+* 🌍 Ranked **#9,000** in the World (out of 7M+ users)
 * 🇮🇳 Ranked **#900** in India
 * 🎓 **eJPT Certified** (Scored **83%**)
 * 🎓 **MCA Graduate** | Deeply invested in Offensive Security.
