@@ -247,6 +247,6 @@ to improve, defend, and innovate.
 
 ### ⚡ Building. Breaking. Learning. Repeating.
 
-<img src="https://komarev.com/ghpvc/?username=gitrohan01&label=Profile%20Views&color=red&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=gitrohan01&label=VISITORS&color=ff0000&style=flat-square" />
 
 </div>
