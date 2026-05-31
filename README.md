@@ -68,8 +68,8 @@ My work focuses heavily on:
 
 <div align="center">
 
-<a href="YOUR_CERTIFICATE_REDIRECT_LINK_HERE">
-  <img src="./assets/ejpt-certification.png" width="700" alt="eJPT Certification">
+<a href="https://github.com/gitrohan01/gitrohan01/blob/main/Screenshot%202025-08-14%20152109.png">
+  <img src="https://raw.githubusercontent.com/gitrohan01/gitrohan01/main/Screenshot%202025-08-14%20152109.png" width="700" alt="eJPT Certification">
 </a>
 
 ### eLearnSecurity Junior Penetration Tester (eJPT)
