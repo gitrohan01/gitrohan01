@@ -4,7 +4,37 @@
 
 ### Offensive Security Researcher • Red Team Enthusiast • Cybersecurity Practitioner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Top+1%25+on+TryHackMe;Web+Security+%7C+Web+Exploitation+%7C+Red+Teaming;Linux+Privilege+Escalation+%7C+Network+Security;CTFs+%7C+Penetration+Testing+%7C+Security+Research;Building+Practical+Offensive+Security+Skills" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Top+1%25+on+TryHackMe;Web+Security+%7C+Web+Exploitation+%7C+Red+Teaming;Linux+Privilege+Escalation+%7C+Network+Security;Penetration+Testing+%7C+CTFs+%7C+Security+Research;Exploring+Advanced+Exploitation+%26+Red+Team+Tradecraft" alt="Typing SVG">
+
+<br>
+
+<a href="https://github.com/gitrohan01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/rohanrdx07deshmukh/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://tryhackme.com/p/hackerdx07">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red">
+</a>
+
+<a href="https://app.hackthebox.com/users/3897306?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
+</a>
+
+<a href="https://hackerdxrohan.aptifolio.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/rohan.deshmukh_08">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:rohandeshmukh882002@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
@@ -21,43 +51,44 @@ Primary Focus:
   - Web Application Security
   - Web Exploitation
   - Penetration Testing
-  - Red Teaming
   - Linux Privilege Escalation
   - Network Security
   - Vulnerability Research
-  - Security Tooling
+  - Red Teaming
+  - CTFs & Security Labs
 
 Hands-on Platforms:
   - TryHackMe
   - Hack The Box
-  - Real-world Labs
+  - Boot2Root Labs
+  - Vulnerable Web Applications
 
 Currently Learning:
   - Advanced Exploitation
   - Red Team Methodologies
+  - Active Directory Security
   - Malware Research
   - Exploit Development
-  - Active Directory Security
   - Infrastructure Security
 
-I am an offensive security enthusiast focused on understanding how systems can be attacked, exploited, and secured.
+I am an offensive security enthusiast focused on understanding how systems can be enumerated, exploited, and compromised.
 
-My primary interests are web exploitation, penetration testing, Linux privilege escalation, network security, vulnerability analysis, and red team operations.
+My strongest areas of interest are web exploitation, penetration testing, Linux privilege escalation, network enumeration, vulnerability analysis, and red team operations.
 
-I spend a significant amount of time in hands-on labs and CTF environments, where I practice enumeration, exploitation, privilege escalation, post-exploitation, and attack-path analysis.
+A large part of my learning comes from hands-on labs and CTF environments, where I practice going from initial enumeration to exploitation, privilege escalation, and post-exploitation.
 
 "Hack the system, not the ethics."
 
 ⚔️ Offensive Security Focus
 <div align="center">
 Area	Focus
-🌐 Web Security	Web Pentesting, OWASP, Authentication, API Security
-💥 Web Exploitation	SQL Injection, File Uploads, LFI/RFI, Command Injection, SSRF
-🐧 Linux Security	Enumeration, SUID, Capabilities, Cron, PATH Hijacking, Sudo
-🪟 Windows Security	Enumeration, Privilege Escalation, Authentication
-🌐 Network Security	Nmap, Service Enumeration, Network Attack Surface
+🌐 Web Security	Web Pentesting, OWASP, Authentication, Authorization, API Security
+💥 Web Exploitation	SQL Injection, LFI, File Uploads, Command Injection, SSRF, XSS
+🐧 Linux Security	SUID, Capabilities, Sudo, Cron, PATH Hijacking, Permissions
+🪟 Windows Security	Enumeration, Authentication, Privilege Escalation
+🌐 Network Security	Nmap, Service Enumeration, Attack Surface Analysis
 🔴 Red Teaming	Reconnaissance, Initial Access, Privilege Escalation, Post-Exploitation
-🧪 Vulnerability Research	Misconfigurations, Attack Surface Analysis, Exploitation
+🧪 Vulnerability Research	Misconfigurations, Enumeration, Exploitation
 🏴‍☠️ CTFs	TryHackMe, Hack The Box, Boot2Root Labs
 </div>
 🏆 Cybersecurity Achievements
@@ -73,10 +104,9 @@ Achievement	Details
 </div>
 🐧 Linux Privilege Escalation
 
-One of the areas I have spent significant hands-on time practicing is Linux privilege escalation through TryHackMe and other CTF environments.
+Linux privilege escalation is one of the areas I have spent significant hands-on time practicing through TryHackMe rooms and CTF environments.
 
-My lab work has covered techniques such as:
-
+Techniques Practiced
 SUID / SGID abuse
 Linux capabilities
 sudo misconfigurations
@@ -85,29 +115,28 @@ Writable files and directories
 PATH hijacking
 Weak permissions
 Service enumeration
+Process enumeration
 Kernel and software enumeration
 Credential discovery
-Automated enumeration with LinPEAS
-Manual privilege escalation methodology
+LinPEAS
+Manual privilege escalation
 Post-exploitation enumeration
-
-A major part of my CTF practice involves going from:
-
+Typical Attack Path
 Initial Access
       ↓
 Enumeration
       ↓
-Identify Misconfiguration
+Identify Weakness
       ↓
-Exploit
+Exploit Misconfiguration
       ↓
 Privilege Escalation
       ↓
-Root / Administrator
+Root
       ↓
 Post-Exploitation
 
-This hands-on practice has helped me develop a stronger understanding of Linux internals, permissions, services, processes, capabilities, and attack paths.
+Hands-on practice with these scenarios has strengthened my understanding of Linux permissions, capabilities, services, processes, filesystems, sudo, and privilege escalation methodology.
 
 🌐 Web Application Security
 
@@ -129,17 +158,17 @@ Cross-Site Scripting
 IDOR
 Session vulnerabilities
 API security
-Misconfigured web servers
 Information disclosure
 Authentication bypass
-Web enumeration and fuzzing
+Web enumeration
+Directory fuzzing
 Tools
 
 Burp Suite · Nmap · Gobuster · FFUF · SQLMap · Nikto · Netcat
 
 🔴 Red Teaming & Penetration Testing
 
-My long-term goal is to work in offensive security and red teaming, with a strong foundation in penetration testing.
+My long-term goal is to work in Offensive Security, Penetration Testing and Red Teaming.
 
 I am particularly interested in understanding the complete attack lifecycle:
 
@@ -157,18 +186,16 @@ Credential Access
       ↓
 Lateral Movement
       ↓
-Persistence
-      ↓
 Post-Exploitation
 
-My current focus is strengthening the fundamentals required for real-world offensive security engagements before moving deeper into advanced red team tradecraft.
+My current focus is building strong practical fundamentals before moving deeper into advanced red team tradecraft.
 
 🚀 Featured Security Projects
 🛡️ AURA — Automated Unified Recognition-based Attendance
 
-An IoT-based attendance system built using RFID, ESP32, wireless communication and Django.
+An IoT-based attendance system combining RFID, ESP32, wireless communication and Django.
 
-Security & Technical Highlights
+Key Highlights
 RFID / PN532 integration
 ESP32-based architecture
 NRF24L01 wireless communication
@@ -180,9 +207,9 @@ Local synchronization and backup
 
 Technology: ESP32 PN532 NRF24L01 Python Django
 
-📡 AirFence — Wireless Threat Detection
+📡 AirFence — Wireless Threat Detection & Evil Twin Identification
 
-A wireless security research project focused on detecting suspicious wireless access points and identifying potential Evil Twin attacks.
+A wireless security research project focused on identifying suspicious wireless access points and potential Evil Twin attacks.
 
 Key Highlights
 Wireless AP discovery
@@ -201,9 +228,9 @@ Research Publication
 
 AirFence: IoT-Based Wireless Threat Detection and Evil Twin Identification Using ESP32 and Machine Learning
 
-Published research paper — IJIRT.
+Published Research Paper — IJIRT
 
-🧰 Security Toolkit
+🧰 Security Arsenal
 <div align="center">
 Reconnaissance
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"> <img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge"> <img src="https://img.shields.io/badge/FFUF-111111?style=for-the-badge"> <img src="https://img.shields.io/badge/Amass-111111?style=for-the-badge">
@@ -242,25 +269,36 @@ Enumeration · Web Attacks · Exploitation · Pivoting · Networking
 
 </div>
 📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitrohan01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitrohan01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitrohan01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitrohan01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=gitrohan01&theme=tokyonight&hide_border=true"/> </div>
+<img src="https://streak-stats.demolab.com?user=gitrohan01&theme=tokyonight&hide_border=true"> </div>
 🧪 Current Research Areas
 <div align="center">
 
 Web Application Security
+
 Web Exploitation
+
 Linux Privilege Escalation
+
 Penetration Testing
+
 Red Team Operations
+
 Network Security
+
 Vulnerability Research
+
 Exploit Development
+
 Malware Research
+
 Active Directory Security
+
 Infrastructure Security
+
 Wireless Security
 
 </div>
@@ -284,7 +322,7 @@ Post-Exploitation
      ↓
 Red Team Operations
 
-I want to become someone who can enumerate an environment, understand its attack surface, exploit weaknesses, escalate privileges, and demonstrate realistic attack paths while maintaining strong ethical and professional standards.
+I want to become someone who can enumerate an environment, understand its attack surface, identify weaknesses, exploit vulnerabilities, escalate privileges and demonstrate realistic attack paths while maintaining strong ethical and professional standards.
 
 🧠 Philosophy
 <div align="center">
@@ -296,7 +334,9 @@ and ultimately build more secure systems.
 ⚡ Learn. Break. Understand. Improve.
 </div>
 🌍 Connect With Me
-<div align="center"> <a href="https://github.com/gitrohan01"> <img src="https://img.shields.io/badge/GitHub-gitrohan01-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/rohanrdx07deshmukh/"> <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://tryhackme.com/p/hackerdx07"> <img src="https://img.shields.io/badge/TryHackMe-hackerdx07-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"> </a> <a href="https://app.hackthebox.com/users/3897306?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs"> <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"> </a> <a href="https://hackerdxrohan.aptifolio.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white"> </a> <a href="https://www.instagram.com/rohan.deshmukh_08"> <img src="https://img.shields.io/badge/Instagram-rohan.deshmukh__08-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="mailto:rohandeshmukh882002@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div> <br> <div align="center">
+<div align="center"> <a href="https://github.com/gitrohan01"> <img src="https://img.shields.io/badge/GitHub-gitrohan01-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/rohanrdx07deshmukh/"> <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://tryhackme.com/p/hackerdx07"> <img src="https://img.shields.io/badge/TryHackMe-hackerdx07-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"> </a> <a href="https://app.hackthebox.com/users/3897306?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs"> <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"> </a> <a href="https://hackerdxrohan.aptifolio.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white"> </a> <a href="https://www.instagram.com/rohan.deshmukh_08"> <img src="https://img.shields.io/badge/Instagram-rohan.deshmukh__08-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="mailto:rohandeshmukh882002@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+
+<br><br>
 
 Discord: rdx04_09553
 
