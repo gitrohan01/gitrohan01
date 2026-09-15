@@ -40,8 +40,8 @@ My hands-on learning is built through CTFs, Boot2Root labs, and vulnerable web a
 |---|---|
 | 🎯 TCS HackQuest Season 10 | Hired as **Associate System Engineer** through a national CTF competition |
 | 🏅 TryHackMe Ranking | **Top 1% globally** |
-| 🌐 Global Rank | ~9,000 among 7M+ users |
-| 🇮🇳 India Rank | ~900 |
+| 🌐 Global Rank | ~5,000 among 7M+ users |
+| 🇮🇳 India Rank | ~650 |
 | 📜 Certification | **eJPT** — eLearnSecurity Junior Penetration Tester |
 | 📈 eJPT Score | 83% — Passed on first attempt |
 
